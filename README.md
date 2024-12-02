@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [@Sharath196266](https://github.com/Sharath196266)  
+# 👋 Hi, I’m **Sharath H N** ([@Sharath196266](https://github.com/Sharath196266))  
 
 👀 **Passionate Problem Solver**: I thrive on learning, tackling challenges, and crafting innovative solutions.  
 
