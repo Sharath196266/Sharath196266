@@ -1,15 +1,20 @@
 # 👋 Hi, I’m @Sharath196266  
 
-- 👀 I’m passionate about learning, solving problems, and creating innovative solutions.  
-- 🌱 I’m currently pursuing a BE in Computer Science and Engineering.  
-- 💻 My technical skills include **C, C++, Java, OOP, HTML, CSS, JavaScript, React.js, and Expo**.  
-- ✨ I’m also a **public speaker** and a **tech enthusiast** who loves to explore the latest trends in technology.  
-- (⁠◠⁠‿⁠◕⁠) I enjoy learning new things, coding, and building React applications for web and mobile platforms.  
-- 📚 In my free time, I enjoy watching movies, staying updated on tech news, and writing stories.  
+👀 **Passionate Problem Solver**: I thrive on learning, tackling challenges, and crafting innovative solutions.  
 
-> 🚀 Feel free to explore my projects and reach out for collaborations or discussions about tech and innovation!  
+🌱 **Aspiring Engineer**: Currently pursuing a BE in Computer Science and Engineering, constantly growing my knowledge and skills.  
 
-<!---
-Sharath196266/Sharath196266 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Technical Expertise**:  
+- Programming Languages: C, C++, Java, Python  
+- Web Development: HTML, CSS, JavaScript, React.js  
+- Mobile Development: Expo  
+- Object-Oriented Programming (OOP)  
+- Data Structures and Algorithms (DSA)  
+
+✨ **Public Speaker & Tech Enthusiast**: I enjoy sharing knowledge and staying ahead with emerging trends in technology.  
+
+(⁠◠⁠‿⁠◕⁠) **Lifelong Learner**: My curiosity drives me to explore new concepts, code creative solutions, and develop impactful applications for web and mobile.  
+
+📚 **Beyond Tech**: When I’m not coding, you’ll find me immersed in movies, exploring the latest tech news, or writing stories that spark creativity.  
+
+🚀 **Let’s Collaborate**: Explore my repositories, contribute to exciting projects, or reach out to discuss ideas, innovation, or tech!
