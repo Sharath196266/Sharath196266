@@ -9,10 +9,7 @@
 - Web Development: HTML, CSS, JavaScript, React.js  
 - Mobile Development: Expo  
 - Object-Oriented Programming (OOP)  
-- Data Structures and Algorithms (DSA) 
-
-### Recent Project:  
-- **[KrushiBook](https://Sharath196266.github.io/KrushiBook)**: A project aimed at providing farmers with an intuitive platform for agricultural information and resources. 
+- Data Structures and Algorithms (DSA)  
 
 ✨ **Public Speaker & Tech Enthusiast**: I enjoy sharing knowledge and staying ahead with emerging trends in technology.  
 
@@ -24,3 +21,7 @@
 
 🔗 Check out my GitHub profile: [github.com/Sharath196266](https://github.com/Sharath196266)  
 
+### Recent Project:  
+- **[KrushiBook](https://Sharath196266.github.io/KrushiBook)**: A project aimed at providing farmers with an intuitive platform for agricultural information and resources.  
+
+📧 Reach me at: [sharath7hn@gmail.com](mailto:sharath7hn@gmail.com)
